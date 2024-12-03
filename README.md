@@ -22,3 +22,5 @@ Dinamik ve Estetik Renk Paleti: Siteye görsel bir çekicilik kazandırır.
 Kullanıcı Odaklı Arayüz: Bilgilere kolay erişim ve akıcı bir gezinme deneyimi sunar.
 
 <h1>🎬Ekran Görüntüsü</h1>
+
+![](./assets/project.gif)
